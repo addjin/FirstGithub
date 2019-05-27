@@ -7,4 +7,5 @@ Blue
 Red
 Green
 Yellow
+Death black
 These are the colors of my rainbow
